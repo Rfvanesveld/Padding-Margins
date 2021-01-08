@@ -1,0 +1,74 @@
+
+
+.Wie {
+    text-align: center; 
+    border: solid red 2px; 
+    background-color:rgb(173, 196, 230);
+    border-radius: 1em;
+    max-width: 30%;
+    margin: auto;}
+
+main {
+    color:darkblue;;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+#Richard {
+    background-color: red;
+    border: solid rgb(98, 121, 155) 2px;
+    border-radius: 1em;
+    margin: auto;
+    padding: auto;}
+
+li {
+    color: darkslateblue;
+    font-family: cursive;}
+
+.gezin {
+    background-color: rgb(173, 196, 230); 
+    border: solid red 2px; 
+    font-size: 18px;
+    padding: auto;
+    margin:auto ;
+    text-align: center;}
+
+aside {
+    color: darkblue; 
+    background-color: rgb(173, 196, 230);
+    border: solid red 2px; 
+    width: 400px;
+    border-radius: 1em;
+    margin: auto;
+    text-align: center;}
+    
+h5 {
+    color: whitesmoke; 
+    width: 150px; 
+    background-color: red; 
+    border: solid black 2px;
+    margin: auto;
+    padding: 5px}
+
+h5 :hover {color: blue;}
+
+img.photo {
+    box-sizing: border-box;
+    border: 10px solid whitesmoke;
+    background-color: black;
+    padding: 10px;}
+
+nav :hover {
+    background-color: red}
+
+nav {
+    border: grey solid;
+    width: 250px;
+    margin-top: 10px;
+    padding: auto;
+    text-align: center;}
+
+footer {
+    border: darkred dashed 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin-top: 10px;
+    color:black; }
